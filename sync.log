@@ -1,0 +1,621 @@
+2026-10-04 19:29:40,895 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloud\iCloud~md~obsidian\Against The Abyss
+2026-10-04 19:29:40,896 [INFO] MainThread: No state file yet; first run will only copy, never delete
+2026-10-04 19:30:10,188 [INFO] MainThread: Stopping...
+2026-10-04 19:30:10,189 [INFO] MainThread: Stopped
+2026-10-04 19:30:43,374 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloud\iCloud~md~obsidian\Against The Abyss
+2026-10-04 19:30:43,374 [INFO] MainThread: No state file yet; first run will only copy, never delete
+2026-10-04 19:31:43,386 [ERROR] Reconcile: iCloud folder not found (C:\Users\jtper\iCloud\iCloud~md~obsidian\Against The Abyss); skipping reconcile
+2026-10-04 19:36:43,542 [ERROR] Reconcile: iCloud folder not found (C:\Users\jtper\iCloud\iCloud~md~obsidian\Against The Abyss); skipping reconcile
+2026-10-04 19:38:44,024 [INFO] MainThread: Stopping...
+2026-10-04 19:38:44,024 [INFO] MainThread: Stopped
+2026-10-04 19:39:34,789 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-04 19:39:34,789 [INFO] MainThread: No state file yet; first run will only copy, never delete
+2026-10-04 19:40:34,829 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app(1).json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app(1).json
+2026-10-04 19:40:34,831 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Warlock Witches.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Warlock Witches.md
+2026-10-04 19:40:34,833 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Sprodotia Ward.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Sprodotia Ward.md
+2026-10-04 19:40:34,835 [INFO] Reconcile: Archived (conflict) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\core-plugins.json
+2026-10-04 19:40:34,836 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\core-plugins.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\core-plugins.json
+2026-10-04 19:40:34,838 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled.base -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled.base
+2026-10-04 19:40:34,840 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Kidemones.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Kidemones.md
+2026-10-04 19:40:34,840 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Humans.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Humans.md
+2026-10-04 19:40:34,842 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Caineur Hamperend.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Caineur Hamperend.md
+2026-10-04 19:40:34,845 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Races Concepts.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Races Concepts.md
+2026-10-04 19:40:34,848 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\appearance 2.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\appearance 2.json
+2026-10-04 19:40:34,850 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Continents.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Continents.md
+2026-10-04 19:40:34,852 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Rogue.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Rogue.md
+2026-10-04 19:40:34,853 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Character Sheet List.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Character Sheet List.md
+2026-10-04 19:40:34,853 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight-Mage.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight-Mage.md
+2026-10-04 19:40:34,855 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Luna Everheart.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Luna Everheart.md
+2026-10-04 19:40:34,856 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Dvergar.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Dvergar.md
+2026-10-04 19:40:34,857 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Beshrak Everheart.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Beshrak Everheart.md
+2026-10-04 19:40:34,858 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Materials\Aetherium.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Materials\Aetherium.md
+2026-10-04 19:40:34,860 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Orielis.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Orielis.md
+2026-10-04 19:40:34,862 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Auren Haelstrom.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Auren Haelstrom.md
+2026-10-04 19:40:34,863 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Garrick Veyne.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Garrick Veyne.md
+2026-10-04 19:40:34,865 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Magic System.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Magic System.md
+2026-10-04 19:40:34,866 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Korrin Hallow.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Korrin Hallow.md
+2026-10-04 19:40:34,868 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\The void is the blackness of space.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\The void is the blackness of space.md
+2026-10-04 19:40:34,871 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Kaelric Wynford.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Kaelric Wynford.md
+2026-10-04 19:40:34,871 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight.md
+2026-10-04 19:40:34,873 [INFO] Reconcile: Archived (conflict) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app.json
+2026-10-04 19:40:34,874 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app.json
+2026-10-04 19:40:34,875 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Stillborne\The Stillborn Sky Chronicles.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Stillborne\The Stillborn Sky Chronicles.md
+2026-10-04 19:40:34,876 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Elves.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Elves.md
+2026-10-04 19:40:34,877 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Jorick Darkmoor.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Jorick Darkmoor.md
+2026-10-04 19:40:34,879 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Meridanus.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Meridanus.md
+2026-10-04 19:40:34,881 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Assassin.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Assassin.md
+2026-10-04 19:40:34,882 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Royalists.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Royalists.md
+2026-10-04 19:40:34,885 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Kivara Dawnbrook.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Kivara Dawnbrook.md
+2026-10-04 19:40:34,886 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Kivara Dawnbrook.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Kivara Dawnbrook.md
+2026-10-04 19:40:34,887 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Davos Whitmore.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Davos Whitmore.md
+2026-10-04 19:40:34,888 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Kaelric Wynford.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Kaelric Wynford.md
+2026-10-04 19:40:34,889 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Drachnos Worften.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Drachnos Worften.md
+2026-10-04 19:40:34,892 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Healers.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Healers.md
+2026-10-04 19:40:34,893 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Korrin Hallow.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Korrin Hallow.md
+2026-10-04 19:40:34,894 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Distrea Everheart.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Distrea Everheart.md
+2026-10-04 19:40:34,895 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Godlings.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Godlings.md
+2026-10-04 19:40:34,898 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Godlings.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Godlings.md
+2026-10-04 19:40:34,899 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Materials\Floatanium.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Materials\Floatanium.md
+2026-10-04 19:40:34,901 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Baidaros Ward.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Baidaros Ward.md
+2026-10-04 19:40:34,903 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Meridalis.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Meridalis.md
+2026-10-04 19:40:34,904 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Decentralists.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Decentralists.md
+2026-10-04 19:40:34,906 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Occidentia.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Occidentia.md
+2026-10-04 19:40:34,907 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Kidemones.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Kidemones.md
+2026-10-04 19:40:34,908 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Seraphim.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Seraphim.md
+2026-10-04 19:40:34,909 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Healers.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Healers.md
+2026-10-04 19:40:34,911 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Kidemones.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Kidemones.md
+2026-10-04 19:40:34,913 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Warlock Witches.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Warlock Witches.md
+2026-10-04 19:40:34,915 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Kivara Dawnbrook.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Kivara Dawnbrook.md
+2026-10-04 19:40:34,917 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Paladin Crusader.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Paladin Crusader.md
+2026-10-04 19:40:34,918 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Misc.md
+2026-10-04 19:40:34,919 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Calvira Merrybrook.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Calvira Merrybrook.md
+2026-10-04 19:40:34,920 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Aster Dekren.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Aster Dekren.md
+2026-10-04 19:40:34,922 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatale.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatale.md
+2026-10-04 19:40:34,924 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Percival Stoddard.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Percival Stoddard.md
+2026-10-04 19:40:34,925 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Mage.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Mage.md
+2026-10-04 19:40:34,926 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Percival Stoddard.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Percival Stoddard.md
+2026-10-04 19:40:34,927 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Warden.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Warden.md
+2026-10-04 19:40:34,928 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Dolvenn Michael.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Dolvenn Michael.md
+2026-10-04 19:40:34,929 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Paladin Crusader.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Paladin Crusader.md
+2026-10-04 19:40:34,931 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Warden.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Warden.md
+2026-10-04 19:40:34,932 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Cedric Stonewall.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Cedric Stonewall.md
+2026-10-04 19:40:34,933 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Warlock.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Warlock.md
+2026-10-04 19:40:34,934 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Seraphim.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Seraphim.md
+2026-10-04 19:40:34,936 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Gythraul.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Gythraul.md
+2026-10-04 19:40:34,937 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Healers.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Healers.md
+2026-10-04 19:40:34,939 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Gythraul.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Gythraul.md
+2026-10-04 19:40:34,940 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Dvergar.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Dvergar.md
+2026-10-04 19:40:34,942 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Septentrionus.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Septentrionus.md
+2026-10-04 19:40:34,943 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Rogue.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Rogue.md
+2026-10-04 19:40:34,944 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Baldric Hawthorne.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Baldric Hawthorne.md
+2026-10-04 19:40:34,947 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Humans.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Humans.md
+2026-10-04 19:40:36,080 [ERROR] Reconcile: Reconcile failed for World Building\Job Classes\Warlock Witches.md (to_local)
+Traceback (most recent call last):
+  File "C:\Users\jtper\PycharmProjects\FolderSync\reconcile.py", line 67, in reconcile
+    done = copy_over(cfg.remote / rel, cfg.local / rel, cfg.local, rel, cfg, state)
+  File "C:\Users\jtper\PycharmProjects\FolderSync\sync_actions.py", line 114, in copy_over
+    with_retry(shutil.copy2, src, dst)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jtper\PycharmProjects\FolderSync\sync_actions.py", line 61, in with_retry
+    return func(*args)
+  File "C:\Python313\Lib\shutil.py", line 453, in copy2
+    _winapi.CopyFile2(src_, dst_, flags)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 380] The cloud operation is invalid
+2026-10-04 19:40:36,095 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Mage.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Mage.md
+2026-10-04 19:40:36,097 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Mage.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Mage.md
+2026-10-04 19:40:36,099 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Noctren Starfall.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Noctren Starfall.md
+2026-10-04 19:40:36,101 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Worlds.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Worlds.md
+2026-10-04 19:40:36,102 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Calvira Merrybrook.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Calvira Merrybrook.md
+2026-10-04 19:40:36,103 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Misc.md
+2026-10-04 19:40:36,104 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\graph.json -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\graph.json
+2026-10-04 19:40:36,105 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Garrick Veyne.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Garrick Veyne.md
+2026-10-04 19:40:36,107 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Davos Whitmore.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Davos Whitmore.md
+2026-10-04 19:40:36,109 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Knight-Mage.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Knight-Mage.md
+2026-10-04 19:40:36,110 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\Expanses.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\Expanses.md
+2026-10-04 19:40:36,112 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Antagonists.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Antagonists.md
+2026-10-04 19:40:36,113 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Materials\Floatanium.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Materials\Floatanium.md
+2026-10-04 19:40:36,115 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Stithios Everheart.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Stithios Everheart.md
+2026-10-04 19:40:36,117 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Rogue.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Rogue.md
+2026-10-04 19:40:36,118 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Auren Haelstrom.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Auren Haelstrom.md
+2026-10-04 19:40:36,121 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Blighter.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Blighter.md
+2026-10-04 19:40:36,122 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Auren Haelstrom.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Auren Haelstrom.md
+2026-10-04 19:40:36,124 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Holly Baumchek.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Holly Baumchek.md
+2026-10-04 19:40:36,127 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Jorick Darkmoor.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Jorick Darkmoor.md
+2026-10-04 19:40:36,128 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Crusader.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Crusader.md
+2026-10-04 19:40:36,129 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Korrin Hallow.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Korrin Hallow.md
+2026-10-04 19:40:36,131 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.trash\Crusader.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.trash\Crusader.md
+2026-10-04 19:40:36,133 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Halflings.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Halflings.md
+2026-10-04 19:40:36,136 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Knight-Mage.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Knight-Mage.md
+2026-10-04 19:40:36,139 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\core-plugins 2.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\core-plugins 2.json
+2026-10-04 19:40:36,141 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Lumen Knight.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Lumen Knight.md
+2026-10-04 19:40:36,143 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Assassin.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Assassin.md
+2026-10-04 19:40:36,146 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Seraphim.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Seraphim.md
+2026-10-04 19:40:36,148 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Stillborne\Untitled.canvas -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Stillborne\Untitled.canvas
+2026-10-04 19:40:36,149 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Cedric Stonewall.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Cedric Stonewall.md
+2026-10-04 19:40:36,151 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Kaelric Wynford.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Kaelric Wynford.md
+2026-10-04 19:40:36,153 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.trash\Warrior.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.trash\Warrior.md
+2026-10-04 19:40:36,154 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Baldric Hawthorne.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Baldric Hawthorne.md
+2026-10-04 19:40:36,155 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Archer.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Archer.md
+2026-10-04 19:40:36,159 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\appearance(1).json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\appearance(1).json
+2026-10-04 19:40:36,160 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Blighter.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Blighter.md
+2026-10-04 19:40:36,161 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Baldric Hawthorne.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Baldric Hawthorne.md
+2026-10-04 19:40:36,163 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Laria Hamir.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Laria Hamir.md
+2026-10-04 19:40:36,165 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Noctren Starfall.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Noctren Starfall.md
+2026-10-04 19:40:36,167 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Elves.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Elves.md
+2026-10-04 19:40:36,169 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Cvristis Ward.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Cvristis Ward.md
+2026-10-04 19:40:36,170 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Jorick Darkmoor.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Jorick Darkmoor.md
+2026-10-04 19:40:36,172 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Escudar Engler.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Escudar Engler.md
+2026-10-04 19:40:36,173 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled 1.canvas -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas
+2026-10-04 19:40:36,174 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Percival Stoddard.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Percival Stoddard.md
+2026-10-04 19:40:36,176 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Archer.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Archer.md
+2026-10-04 19:40:36,178 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Tenebrae.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Tenebrae.md
+2026-10-04 19:40:36,181 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Davos Whitmore.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Davos Whitmore.md
+2026-10-04 19:40:36,182 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Magnar Beren.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Magnar Beren.md
+2026-10-04 19:40:36,184 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Crusader.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Crusader.md
+2026-10-04 19:40:36,186 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Blighter.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Blighter.md
+2026-10-04 19:40:36,188 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Knight.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Knight.md
+2026-10-04 19:40:36,191 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Halflings.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Halflings.md
+2026-10-04 19:40:36,195 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\core-plugins(1).json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\core-plugins(1).json
+2026-10-04 19:40:36,196 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Noctren Starfall.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Noctren Starfall.md
+2026-10-04 19:40:36,198 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Luna Everheart.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Luna Everheart.md
+2026-10-04 19:40:36,201 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Materials\Standard elements.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Materials\Standard elements.md
+2026-10-04 19:40:36,204 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Character Sheet List.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Character Sheet List.md
+2026-10-04 19:40:36,207 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Dvergar.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Dvergar.md
+2026-10-04 19:40:36,210 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Warden.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Warden.md
+2026-10-04 19:40:36,213 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Ordelphos Benteram.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Ordelphos Benteram.md
+2026-10-04 19:40:36,216 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Vatnsfolk.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Vatnsfolk.md
+2026-10-04 19:40:36,218 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Ashwyn Fiddlefern.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Ashwyn Fiddlefern.md
+2026-10-04 19:40:36,220 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Archer.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Archer.md
+2026-10-04 19:40:36,222 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Materials\Floatanium.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Materials\Floatanium.md
+2026-10-04 19:40:36,224 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Luna Everheart.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Luna Everheart.md
+2026-10-04 19:40:36,225 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Garrick Veyne.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Garrick Veyne.md
+2026-10-04 19:40:36,228 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Elves.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Elves.md
+2026-10-04 19:40:36,229 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Ashwyn Fiddlefern.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Ashwyn Fiddlefern.md
+2026-10-04 19:40:36,232 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Kieran Ward.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Kieran Ward.md
+2026-10-04 19:40:36,235 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Beserker.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Beserker.md
+2026-10-04 19:40:36,238 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md
+2026-10-04 19:40:36,240 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Curaille Weskenwood.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Curaille Weskenwood.md
+2026-10-04 19:40:36,244 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Centralists.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Centralists.md
+2026-10-04 19:40:36,246 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Knight.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Knight.md
+2026-10-04 19:40:36,247 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Calvira Merrybrook.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Calvira Merrybrook.md
+2026-10-04 19:40:36,249 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Cedric Stonewall.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Cedric Stonewall.md
+2026-10-04 19:40:36,253 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Materials\Aetherium.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Materials\Aetherium.md
+2026-10-04 19:40:36,255 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Assassin.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Assassin.md
+2026-10-04 19:40:36,257 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Halflings.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Halflings.md
+2026-10-04 19:40:36,260 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Humans.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Races\Humans.md
+2026-10-04 19:40:36,263 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Mediterra.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Mediterra.md
+2026-10-04 19:40:36,266 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Kieran Ward.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Kieran Ward.md
+2026-10-04 19:40:36,268 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Ashwyn Fiddlefern.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Ashwyn Fiddlefern.md
+2026-10-04 19:40:36,270 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Character Sheet List.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Character Sheet List.md
+2026-10-04 19:40:36,273 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Characters\Kieran Ward.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Characters\Kieran Ward.md
+2026-10-04 19:40:36,275 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Vatnsfolk.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Vatnsfolk.md
+2026-10-04 19:40:36,279 [INFO] Reconcile: Archived (conflict) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\appearance.json
+2026-10-04 19:40:36,281 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\appearance.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\appearance.json
+2026-10-04 19:40:36,283 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Gythraul.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Gythraul.md
+2026-10-04 19:40:36,286 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Materials\Aetherium.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Materials\Aetherium.md
+2026-10-04 19:40:36,288 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Vatnsfolk.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Vatnsfolk.md
+2026-10-04 19:40:36,291 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app 2.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app 2.json
+2026-10-04 19:40:36,294 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.trash\Assassin 3.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.trash\Assassin 3.md
+2026-10-04 19:40:36,297 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Godlings.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Godlings.md
+2026-10-04 19:40:36,300 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Hesperia.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Hesperia.md
+2026-10-04 19:40:36,301 [INFO] Reconcile: Reconcile done: 84 -> iCloud, 89 -> local, 0 archived locally, 0 archived in iCloud
+2026-10-04 19:40:39,135 [WARNING] DebounceWorker: Kept C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Warlock Witches.md: deleted locally but changed in iCloud since last sync
+2026-10-04 19:45:36,506 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Warlock Witches.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Warlock Witches.md
+2026-10-04 19:45:36,509 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Misc.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Misc.md
+2026-10-04 19:45:36,512 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\graph.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\graph.json
+2026-10-04 19:45:36,515 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Knight-Mage.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Knight-Mage.md
+2026-10-04 19:45:36,516 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Kidemones.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Kidemones.md
+2026-10-04 19:45:36,517 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Humans.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Humans.md
+2026-10-04 19:45:36,520 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Materials\Floatanium.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Materials\Floatanium.md
+2026-10-04 19:45:36,521 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Auren Haelstrom.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Auren Haelstrom.md
+2026-10-04 19:45:36,522 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Auren Haelstrom.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Auren Haelstrom.md
+2026-10-04 19:45:36,524 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Crusader.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Crusader.md
+2026-10-04 19:45:36,525 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Korrin Hallow.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Korrin Hallow.md
+2026-10-04 19:45:36,526 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Rogue.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Rogue.md
+2026-10-04 19:45:36,528 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Character Sheet List.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Character Sheet List.md
+2026-10-04 19:45:36,530 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight-Mage.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight-Mage.md
+2026-10-04 19:45:36,532 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Dvergar.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Dvergar.md
+2026-10-04 19:45:36,533 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Halflings.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Halflings.md
+2026-10-04 19:45:36,535 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Materials\Aetherium.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Materials\Aetherium.md
+2026-10-04 19:45:36,536 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Garrick Veyne.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Garrick Veyne.md
+2026-10-04 19:45:36,537 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Stillborne\Untitled.canvas -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Stillborne\Untitled.canvas
+2026-10-04 19:45:36,538 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Kaelric Wynford.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Kaelric Wynford.md
+2026-10-04 19:45:36,539 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Baldric Hawthorne.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Baldric Hawthorne.md
+2026-10-04 19:45:36,540 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Kaelric Wynford.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Kaelric Wynford.md
+2026-10-04 19:45:36,541 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Archer.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Archer.md
+2026-10-04 19:45:36,542 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Knight.md
+2026-10-04 19:45:36,544 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Blighter.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Blighter.md
+2026-10-04 19:45:36,545 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Stillborne\The Stillborn Sky Chronicles.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Stillborne\The Stillborn Sky Chronicles.md
+2026-10-04 19:45:36,546 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Elves.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Elves.md
+2026-10-04 19:45:36,547 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Jorick Darkmoor.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Jorick Darkmoor.md
+2026-10-04 19:45:36,549 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Noctren Starfall.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Noctren Starfall.md
+2026-10-04 19:45:36,550 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Jorick Darkmoor.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Jorick Darkmoor.md
+2026-10-04 19:45:36,551 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled 1.canvas
+2026-10-04 19:45:36,553 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Assassin.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Assassin.md
+2026-10-04 19:45:36,554 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Archer.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Archer.md
+2026-10-04 19:45:36,557 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Kivara Dawnbrook.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Kivara Dawnbrook.md
+2026-10-04 19:45:36,558 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Kivara Dawnbrook.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Kivara Dawnbrook.md
+2026-10-04 19:45:36,559 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Davos Whitmore.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Davos Whitmore.md
+2026-10-04 19:45:36,560 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Davos Whitmore.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Davos Whitmore.md
+2026-10-04 19:45:36,562 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Crusader.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Crusader.md
+2026-10-04 19:45:36,563 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Korrin Hallow.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Korrin Hallow.md
+2026-10-04 19:45:36,567 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Godlings.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Godlings.md
+2026-10-04 19:45:36,569 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Blighter.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Blighter.md
+2026-10-04 19:45:36,570 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Noctren Starfall.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Noctren Starfall.md
+2026-10-04 19:45:36,572 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Luna Everheart.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Luna Everheart.md
+2026-10-04 19:45:36,573 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Materials\Floatanium.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Materials\Floatanium.md
+2026-10-04 19:45:36,576 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Ashwyn Fiddlefern.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Ashwyn Fiddlefern.md
+2026-10-04 19:45:36,578 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Kidemones.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Kidemones.md
+2026-10-04 19:45:36,579 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Seraphim.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Seraphim.md
+2026-10-04 19:45:36,582 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Healers.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Healers.md
+2026-10-04 19:45:36,583 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Luna Everheart.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Luna Everheart.md
+2026-10-04 19:45:36,585 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Garrick Veyne.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Garrick Veyne.md
+2026-10-04 19:45:36,587 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Elves.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Elves.md
+2026-10-04 19:45:36,588 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Ashwyn Fiddlefern.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Ashwyn Fiddlefern.md
+2026-10-04 19:45:36,590 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Warlock Witches.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Warlock Witches.md
+2026-10-04 19:45:36,592 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Kieran Ward.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Kieran Ward.md
+2026-10-04 19:45:36,594 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Knight.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Knight.md
+2026-10-04 19:45:36,595 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Calvira Merrybrook.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Calvira Merrybrook.md
+2026-10-04 19:45:36,597 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Paladin Crusader.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Paladin Crusader.md
+2026-10-04 19:45:36,599 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Cedric Stonewall.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Cedric Stonewall.md
+2026-10-04 19:45:36,600 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Misc.md
+2026-10-04 19:45:36,602 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Calvira Merrybrook.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Calvira Merrybrook.md
+2026-10-04 19:45:36,603 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Assassin.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Assassin.md
+2026-10-04 19:45:36,605 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Percival Stoddard.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Percival Stoddard.md
+2026-10-04 19:45:36,607 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Halflings.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Halflings.md
+2026-10-04 19:45:36,610 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Kieran Ward.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Kieran Ward.md
+2026-10-04 19:45:36,612 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Mage.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Mage.md
+2026-10-04 19:45:36,614 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\Characters\Percival Stoddard.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\Characters\Percival Stoddard.md
+2026-10-04 19:45:36,615 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Warden.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Warden.md
+2026-10-04 19:45:36,616 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Character Sheet List.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Character Sheet List.md
+2026-10-04 19:45:36,617 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Paladin Crusader.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Paladin Crusader.md
+2026-10-04 19:45:36,619 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Warden.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Warden.md
+2026-10-04 19:45:36,621 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Cedric Stonewall.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Cedric Stonewall.md
+2026-10-04 19:45:36,624 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Vatnsfolk.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Vatnsfolk.md
+2026-10-04 19:45:36,625 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Gythraul.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Gythraul.md
+2026-10-04 19:45:36,626 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Seraphim.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Seraphim.md
+2026-10-04 19:45:36,628 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Gythraul.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Gythraul.md
+2026-10-04 19:45:36,630 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Healers.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Healers.md
+2026-10-04 19:45:36,632 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Dvergar.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Dvergar.md
+2026-10-04 19:45:36,633 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Materials\Aetherium.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Materials\Aetherium.md
+2026-10-04 19:45:36,634 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Job Classes\Rogue.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Rogue.md
+2026-10-04 19:45:36,636 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\Characters\Baldric Hawthorne.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\Characters\Baldric Hawthorne.md
+2026-10-04 19:45:36,637 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss\World Building\Races\Humans.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Races\Humans.md
+2026-10-04 19:45:36,639 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Vatnsfolk.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Vatnsfolk.md
+2026-10-04 19:45:37,216 [ERROR] Reconcile: Reconcile failed for World Building\Job Classes\Warlock Witches.md (to_local)
+Traceback (most recent call last):
+  File "C:\Users\jtper\PycharmProjects\FolderSync\reconcile.py", line 67, in reconcile
+    done = copy_over(cfg.remote / rel, cfg.local / rel, cfg.local, rel, cfg, state)
+  File "C:\Users\jtper\PycharmProjects\FolderSync\sync_actions.py", line 114, in copy_over
+    with_retry(shutil.copy2, src, dst)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jtper\PycharmProjects\FolderSync\sync_actions.py", line 61, in with_retry
+    return func(*args)
+  File "C:\Python313\Lib\shutil.py", line 453, in copy2
+    _winapi.CopyFile2(src_, dst_, flags)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 380] The cloud operation is invalid
+2026-10-04 19:45:37,219 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Races\Godlings.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Races\Godlings.md
+2026-10-04 19:45:37,221 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Against The Abyss - Copy\World Building\Job Classes\Mage.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss - Copy\World Building\Job Classes\Mage.md
+2026-10-04 19:45:37,223 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 84 -> local, 0 archived locally, 0 archived in iCloud
+2026-10-04 19:45:40,276 [WARNING] DebounceWorker: Kept C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Warlock Witches.md: deleted locally but changed in iCloud since last sync
+2026-10-04 19:50:37,981 [ERROR] Reconcile: Reconcile failed for World Building\Job Classes\Warlock Witches.md (to_local)
+Traceback (most recent call last):
+  File "C:\Users\jtper\PycharmProjects\FolderSync\reconcile.py", line 67, in reconcile
+    done = copy_over(cfg.remote / rel, cfg.local / rel, cfg.local, rel, cfg, state)
+  File "C:\Users\jtper\PycharmProjects\FolderSync\sync_actions.py", line 114, in copy_over
+    with_retry(shutil.copy2, src, dst)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jtper\PycharmProjects\FolderSync\sync_actions.py", line 61, in with_retry
+    return func(*args)
+  File "C:\Python313\Lib\shutil.py", line 453, in copy2
+    _winapi.CopyFile2(src_, dst_, flags)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 380] The cloud operation is invalid
+2026-10-04 19:50:37,983 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud
+2026-10-04 19:50:41,408 [WARNING] DebounceWorker: Kept C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Warlock Witches.md: deleted locally but changed in iCloud since last sync
+2026-10-04 20:20:55,464 [INFO] Reconcile: Woke from sleep (~29 min); reconciling after 60s
+2026-10-04 20:20:59,912 [INFO] MainThread: Stopping...
+2026-10-04 20:20:59,913 [INFO] MainThread: Stopped
+2026-10-11 21:38:43,288 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-11 21:39:43,431 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Orielis Area\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Orielis Area\Untitled.md
+2026-10-11 21:39:43,433 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Meridalis Area\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Meridalis Area\Untitled.md
+2026-10-11 21:39:43,435 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Mediterra Areas\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Mediterra Areas\Untitled.md
+2026-10-11 21:39:43,436 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Meridanus Areas\Untitled 1.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Meridanus Areas\Untitled 1.md
+2026-10-11 21:39:43,440 [INFO] Reconcile: Archived (deleted) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Against The Abyss\World Building\Job Classes\Warlock Witches.md
+2026-10-11 21:39:43,441 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Villain Progression.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Villain Progression.md
+2026-10-11 21:39:43,445 [INFO] Reconcile: Archived (deleted) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatale.md
+2026-10-11 21:39:43,446 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatales Area\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatales Area\Untitled.md
+2026-10-11 21:39:43,448 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Septentrionus Areas\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Septentrionus Areas\Untitled.md
+2026-10-11 21:39:43,450 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Occidentia Areas\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Occidentia Areas\Untitled.md
+2026-10-11 21:39:43,451 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.trash\Books(1).md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.trash\Books(1).md
+2026-10-11 21:39:43,452 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Books.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Books.md
+2026-10-11 21:39:43,453 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Tenebrae Areas\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Tenebrae Areas\Untitled.md
+2026-10-11 21:39:43,455 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatales.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Oceatales.md
+2026-10-11 21:39:43,456 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Kieran's Arc.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Kieran's Arc.md
+2026-10-11 21:39:43,457 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Religions\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Religions\Untitled.md
+2026-10-11 21:39:43,459 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Topography\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Topography\Untitled.md
+2026-10-11 21:39:43,460 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Hesperian Areas\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Land Continents\Hesperian Areas\Untitled.md
+2026-10-11 21:39:43,461 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Society\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Society\Untitled.md
+2026-10-11 21:39:43,463 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Meridanus Areas\Untitled.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Continents\Ocean Continents\Meridanus Areas\Untitled.md
+2026-10-11 21:39:43,464 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Theme.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Theme.md
+2026-10-11 21:39:43,465 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\The Abyss.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\The Abyss.md
+2026-10-11 21:39:43,466 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 20 -> local, 2 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 21:44:43,823 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 21:46:02,490 [INFO] MainThread: Stopping...
+2026-10-11 21:46:02,491 [INFO] MainThread: Stopped
+2026-10-11 21:47:11,608 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-11 21:47:24,726 [INFO] MainThread: Stopping...
+2026-10-11 21:47:24,727 [INFO] MainThread: Stopped
+2026-10-11 22:01:50,687 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-11 22:02:51,074 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:07:52,132 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:12:53,165 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:17:53,496 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:22:54,096 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:27:54,767 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:32:55,333 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:37:55,704 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:42:56,167 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:47:56,567 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:52:56,855 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 22:57:57,160 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 23:02:57,680 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-11 23:07:58,051 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 02:33:57,177 [INFO] Reconcile: Woke from sleep (~206 min); reconciling after 60s
+2026-10-12 02:35:00,490 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 11:08:25,638 [INFO] Reconcile: Woke from sleep (~510 min); reconciling after 60s
+2026-10-12 11:42:55,820 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 11:47:56,309 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 11:52:56,772 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 11:57:57,136 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:02:57,425 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:07:57,815 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:12:58,520 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:17:58,826 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:22:59,122 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:27:59,616 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:33:00,137 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:38:00,421 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 12:43:01,040 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 13:18:41,137 [INFO] Reconcile: Woke from sleep (~33 min); reconciling after 60s
+2026-10-12 13:19:41,554 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 13:24:42,151 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 13:29:43,816 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 13:34:44,442 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 13:49:38,101 [INFO] Reconcile: Woke from sleep (~12 min); reconciling after 60s
+2026-10-12 13:50:38,488 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 13:55:39,077 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:00:39,398 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:05:39,936 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:10:40,216 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:15:40,826 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:23:56,314 [INFO] Reconcile: Woke from sleep (~5 min); reconciling after 60s
+2026-10-12 14:28:09,068 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:33:09,501 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:38:10,021 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:43:10,695 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:48:11,195 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:53:11,662 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 14:58:12,218 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:03:12,672 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:08:12,968 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:13:13,264 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:18:13,740 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:23:14,004 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:28:14,523 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:33:14,997 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:38:15,475 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:43:15,804 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:48:16,336 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:53:16,842 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 15:58:17,341 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 16:33:30,917 [INFO] Reconcile: Woke from sleep (~33 min); reconciling after 60s
+2026-10-12 16:34:31,137 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 16:39:31,420 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 16:44:32,156 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 16:49:32,466 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 16:54:32,862 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 16:59:33,520 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:04:34,011 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:09:34,352 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:14:34,619 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:19:35,163 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:24:35,463 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:29:36,074 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:34:36,386 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:39:36,715 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:44:37,035 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:49:37,320 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:54:37,606 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 17:59:37,915 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:04:38,219 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:09:38,530 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:14:38,877 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:19:39,179 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:24:39,481 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:29:39,805 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:44:00,485 [INFO] Reconcile: Woke from sleep (~13 min); reconciling after 60s
+2026-10-12 18:45:02,112 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:50:02,612 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 18:55:03,106 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 19:31:20,164 [INFO] Reconcile: Woke from sleep (~35 min); reconciling after 60s
+2026-10-12 19:32:20,668 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 19:37:20,966 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 19:42:21,526 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 19:47:21,843 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 19:52:22,139 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 19:57:22,499 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:02:22,928 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:07:23,297 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:12:23,868 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:17:24,480 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:22:24,825 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:27:25,246 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:32:25,657 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:37:25,865 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:42:26,289 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:47:26,900 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:52:27,378 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 20:57:27,727 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:02:28,135 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:07:28,396 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:12:28,812 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:17:29,193 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:22:29,504 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:27:30,022 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:32:30,294 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:37:30,678 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:42:31,342 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:47:31,814 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:52:32,390 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 21:57:32,686 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:02:33,164 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:07:33,933 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:12:34,466 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:17:34,761 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:22:35,128 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:27:35,727 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:32:36,014 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:37:36,314 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:42:36,823 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:47:37,356 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:52:37,695 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 22:57:38,280 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:02:38,951 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:07:39,414 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:12:39,730 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:17:40,156 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:22:40,653 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:27:40,951 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-12 23:32:41,273 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 00:56:44,629 [INFO] Reconcile: Woke from sleep (~80 min); reconciling after 60s
+2026-10-13 00:57:46,175 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:21:53,983 [INFO] Reconcile: Woke from sleep (~1042 min); reconciling after 60s
+2026-10-13 18:22:51,932 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:27:52,500 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:32:52,947 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:37:53,530 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:42:54,008 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:47:54,912 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:52:55,653 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 18:57:56,180 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 19:02:56,636 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 19:07:57,130 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 19:12:57,441 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 19:44:17,850 [INFO] Reconcile: Woke from sleep (~30 min); reconciling after 60s
+2026-10-13 19:45:18,077 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 19:50:18,620 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 19:55:19,195 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:00:19,842 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:05:20,291 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:10:20,606 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:15:20,940 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:20:21,413 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:25:21,717 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:30:22,241 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:35:22,877 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:40:23,349 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:45:23,806 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:50:24,414 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 20:55:24,716 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:00:25,112 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:05:25,645 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:10:25,981 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:15:26,609 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:20:26,902 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:25:27,322 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:30:27,958 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:35:28,480 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:40:28,994 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:45:29,537 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:50:30,069 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 21:55:30,720 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 22:00:31,099 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 22:05:31,437 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 22:18:37,738 [INFO] Reconcile: Woke from sleep (~10 min); reconciling after 60s
+2026-10-13 22:19:53,060 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-13 22:26:14,379 [INFO] Reconcile: Woke from sleep (~6 min); reconciling after 60s
+2026-10-13 22:40:29,448 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-14 19:58:53,909 [INFO] Reconcile: Woke from sleep (~1278 min); reconciling after 60s
+2026-10-14 19:59:53,559 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-14 20:04:54,745 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-14 20:09:55,291 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-14 20:55:48,104 [INFO] Reconcile: Woke from sleep (~42 min); reconciling after 60s
+2026-10-14 20:56:50,041 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 00:28:38,427 [INFO] Reconcile: Woke from sleep (~210 min); reconciling after 60s
+2026-10-15 00:29:38,895 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 00:34:40,478 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:03:08,848 [INFO] Reconcile: Woke from sleep (~27 min); reconciling after 60s
+2026-10-15 01:04:20,308 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:16:15,797 [INFO] Reconcile: Woke from sleep (~10 min); reconciling after 60s
+2026-10-15 01:17:16,878 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:22:17,606 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:27:18,764 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:32:19,606 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:37:20,290 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:42:21,123 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:47:21,667 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:52:22,927 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 01:57:23,913 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:02:24,742 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:07:25,668 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:12:26,469 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:17:26,879 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:22:27,474 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:27:28,826 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:32:29,679 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:37:30,440 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:42:31,188 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:47:31,787 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:52:32,374 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 02:57:33,053 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:02:33,675 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:07:34,291 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:12:34,957 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:17:35,625 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:22:36,268 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:27:36,892 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:32:37,594 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:37:38,205 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 03:42:38,741 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 07:12:56,935 [INFO] Reconcile: Woke from sleep (~209 min); reconciling after 60s
+2026-10-15 07:13:57,687 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 08:55:57,011 [INFO] Reconcile: Woke from sleep (~101 min); reconciling after 60s
+2026-10-15 17:04:38,040 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:09:38,582 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:14:39,355 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:19:39,696 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:24:40,186 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:29:40,681 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:34:41,237 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:39:41,530 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:44:42,140 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:49:42,611 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:54:42,915 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 17:59:43,211 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:04:43,719 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:09:44,183 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:14:44,481 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:19:45,055 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:24:45,634 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:29:46,079 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 18:34:46,596 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-15 20:34:27,320 [INFO] Reconcile: Woke from sleep (~119 min); reconciling after 60s
+2026-10-15 20:35:28,063 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:03:25,359 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-16 12:04:27,474 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:09:30,370 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:14:31,916 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:19:32,890 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:24:33,632 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:29:34,306 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:34:34,902 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:39:35,569 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:44:36,229 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 12:49:36,747 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 13:05:10,150 [INFO] Reconcile: Woke from sleep (~15 min); reconciling after 60s
+2026-10-16 14:17:04,771 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:22:05,404 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:27:05,932 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
