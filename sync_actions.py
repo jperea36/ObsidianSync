@@ -127,6 +127,31 @@ def _atomic_copy(src: Path, dst: Path) -> None:
             pass
 
 
+def _read_source(src: Path) -> bytes:
+    """Read a whole file; notes are small, and reading first keeps the write window tiny."""
+    with open(src, "rb") as f:
+        return f.read()
+
+
+def _inplace_write(src: Path, dst: Path) -> None:
+    """Overwrite dst in place, keeping the same file identity.
+
+    Used for the iCloud folder. Replacing a file there (temp file + rename)
+    looks to iCloud like a delete plus a brand-new file, and if that lands
+    while it is still uploading the previous version it creates a
+    "Note 2.md" conflict copy. Writing in place also means no temp files
+    are ever uploaded.
+    """
+    data = _read_source(src)
+    with open(dst, "wb") as f:
+        f.write(data)
+        f.flush()
+        os.fsync(f.fileno())
+    if dst.stat().st_size != len(data):
+        raise OSError(f"Short write to {dst}")
+    shutil.copystat(src, dst)
+
+
 # ---------- core operations ----------
 
 def archive(path: Path, root: Path, cfg: SyncConfig, reason: str) -> None:
@@ -163,7 +188,7 @@ def copy_over(rel: Path, to_icloud: bool, cfg: SyncConfig, state: SyncState) -> 
         if not same(d, known_dst):
             archive(dst, dst_root, cfg, "conflict")
     dst.parent.mkdir(parents=True, exist_ok=True)
-    with_retry(_atomic_copy, src, dst)
+    with_retry(_inplace_write if to_icloud else _atomic_copy, src, dst)
     record(rel, cfg, state)
     log.info("Copied   %s -> %s", src, dst)
     return True

@@ -619,3 +619,341 @@ OSError: [WinError 380] The cloud operation is invalid
 2026-10-16 14:17:04,771 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
 2026-10-16 14:22:05,404 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
 2026-10-16 14:27:05,932 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:32:06,340 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:37:06,708 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:42:07,108 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:47:07,612 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:52:08,180 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 14:57:08,738 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 15:02:09,356 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 15:09:47,714 [INFO] Reconcile: Woke from sleep (~4 min); reconciling after 60s
+2026-10-16 17:40:19,516 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-16 17:41:19,908 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 17:46:20,302 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 17:51:27,431 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 17:56:28,693 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:01:00,801 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-16 18:02:01,640 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:07:02,257 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:12:02,991 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:17:03,561 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:22:03,984 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:27:04,301 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:32:04,793 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:37:05,281 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:42:05,822 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:47:06,398 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:52:06,773 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 18:57:07,286 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:03:36,597 [INFO] Reconcile: Woke from sleep (~2 min); reconciling after 60s
+2026-10-16 19:04:37,198 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:09:38,652 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:14:39,385 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:19:40,492 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:24:41,402 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:29:42,345 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:34:44,844 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:49:36,834 [INFO] Reconcile: Woke from sleep (~14 min); reconciling after 60s
+2026-10-16 19:50:37,463 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 19:55:38,358 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:00:39,399 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:05:40,089 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:10:40,908 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:15:42,872 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:20:43,470 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:25:44,249 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:30:44,881 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:35:45,510 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:46:55,394 [INFO] Reconcile: Woke from sleep (~11 min); reconciling after 60s
+2026-10-16 20:47:56,192 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:52:56,796 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 20:57:57,232 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:02:57,726 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:07:58,023 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:12:58,356 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:17:58,870 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:22:59,241 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:27:59,522 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:32:59,778 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:38:00,333 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:43:00,727 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:48:01,068 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:53:01,522 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 21:58:01,803 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:03:02,327 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:08:02,725 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:13:03,018 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:18:03,316 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:23:03,672 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:28:03,974 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:33:04,473 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:38:04,985 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:43:05,502 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:48:05,841 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:53:06,335 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 22:58:06,630 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 23:03:06,938 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 23:08:07,404 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 23:13:07,707 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 23:18:08,282 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 23:23:08,547 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-16 23:28:09,014 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 00:09:41,680 [INFO] Reconcile: Woke from sleep (~39 min); reconciling after 60s
+2026-10-17 00:10:43,218 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 02:09:49,853 [INFO] Reconcile: Woke from sleep (~118 min); reconciling after 60s
+2026-10-17 11:30:16,503 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 11:35:16,853 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 11:40:17,118 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 11:45:17,342 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 11:50:17,644 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 11:55:18,112 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:00:18,511 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:05:19,067 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:10:19,405 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:15:19,787 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:20:20,157 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:25:20,491 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:30:21,134 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:35:21,399 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:40:21,645 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:45:21,943 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:50:22,215 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 12:55:22,499 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:00:22,755 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:05:23,385 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:10:23,956 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:15:24,247 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:20:24,864 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:25:25,238 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:30:25,659 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:35:26,111 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:40:26,497 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:45:32,741 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 13:50:19,914 [INFO] Reconcile: Woke from sleep (~4 min); reconciling after 60s
+2026-10-17 14:01:51,213 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 14:07:02,569 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 14:17:15,874 [INFO] Reconcile: Woke from sleep (~6 min); reconciling after 60s
+2026-10-17 16:43:52,502 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 16:48:52,793 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 16:53:53,161 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 16:58:53,547 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 17:03:53,850 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 20:30:57,135 [INFO] Reconcile: Woke from sleep (~206 min); reconciling after 60s
+2026-10-17 20:31:57,398 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 20:36:57,662 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 20:41:58,118 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 20:46:58,679 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 20:51:59,245 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 20:56:59,631 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:01:59,947 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:07:00,470 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:12:00,861 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:17:01,174 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:22:01,451 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:27:01,775 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:32:02,211 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:37:02,521 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:42:02,974 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:47:03,447 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:52:03,739 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 21:57:04,038 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:02:04,355 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:07:04,879 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:12:05,168 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:17:05,660 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:22:05,962 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:27:06,264 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:32:06,832 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:37:07,250 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:42:07,802 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:47:08,111 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:52:08,451 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 22:57:09,037 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:02:09,423 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:07:09,767 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:12:10,357 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:17:10,830 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:22:11,181 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:27:11,646 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-17 23:32:12,153 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 00:13:24,040 [INFO] Reconcile: Woke from sleep (~38 min); reconciling after 60s
+2026-10-18 00:14:25,435 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:16:20,111 [INFO] Reconcile: Woke from sleep (~659 min); reconciling after 60s
+2026-10-18 11:17:20,576 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:22:20,932 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:27:21,415 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:32:22,047 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:37:22,544 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:42:22,825 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:47:23,304 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:52:23,603 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 11:57:24,247 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 12:02:24,785 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 12:07:25,229 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 12:12:25,566 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 12:17:26,098 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 12:22:26,375 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 12:27:26,705 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 15:55:15,591 [INFO] Reconcile: Woke from sleep (~205 min); reconciling after 60s
+2026-10-18 15:56:16,048 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:01:16,525 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:06:17,144 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:11:17,426 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:16:17,754 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:21:18,075 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:26:18,422 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:31:18,663 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:36:19,342 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:41:19,620 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:46:19,992 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:51:20,365 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 16:56:20,893 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:01:21,185 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:06:21,412 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:11:21,795 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:16:22,193 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:21:22,739 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:26:23,040 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:31:23,422 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 17:36:23,801 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:08:45,998 [INFO] Reconcile: Woke from sleep (~28 min); reconciling after 60s
+2026-10-18 18:09:46,427 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:14:47,051 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:19:47,646 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:24:48,085 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:29:48,421 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:34:49,080 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:39:49,420 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:44:49,835 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:49:50,237 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:54:50,713 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 18:59:51,276 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:04:51,767 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:09:52,157 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:14:52,652 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:19:52,942 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:24:53,465 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:29:53,779 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:34:54,240 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:39:54,491 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:44:55,154 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:49:55,542 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:54:55,984 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 19:59:56,554 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:04:57,169 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:09:57,678 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:14:57,943 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:19:58,250 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:24:58,583 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:29:58,827 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:34:59,295 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:39:59,830 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:45:00,367 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:50:00,757 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 20:55:01,271 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:00:01,911 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:05:02,297 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:10:02,768 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:15:03,231 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:20:03,527 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:24:03,668 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:24:15,006 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:24:15,017 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:24:23,170 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:24:38,500 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:24:44,160 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:24:51,331 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:25:04,045 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 5.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 5.md
+2026-10-18 21:25:04,060 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 3.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 3.md
+2026-10-18 21:25:04,070 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc(1).md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc(1).md
+2026-10-18 21:25:04,080 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:25:04,092 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 2.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 2.md
+2026-10-18 21:25:04,103 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 4.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 4.md
+2026-10-18 21:25:04,110 [INFO] Reconcile: Reconcile done: 1 -> iCloud, 5 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:25:11,303 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:25:19,500 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc.md
+2026-10-18 21:27:40,439 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc(1).md
+2026-10-18 21:27:40,454 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 2.md
+2026-10-18 21:27:40,992 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 3.md
+2026-10-18 21:27:41,013 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 4.md
+2026-10-18 21:27:41,037 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 5.md
+2026-10-18 21:28:05,542 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled.base -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled.base
+2026-10-18 21:28:36,456 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled 1.canvas -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas
+2026-10-18 21:28:43,128 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas
+2026-10-18 21:28:43,134 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled 1.canvas -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas
+2026-10-18 21:28:48,805 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled 1.canvas -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas
+2026-10-18 21:28:57,025 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled.base -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Appendix.base
+2026-10-18 21:28:57,565 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\Untitled 1.canvas -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\Untitled 1.canvas
+2026-10-18 21:29:01,652 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app.json -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app.json
+2026-10-18 21:29:09,359 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app.json -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app.json
+2026-10-18 21:29:50,335 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md
+2026-10-18 21:29:53,929 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:30:04,473 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 7.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 7.md
+2026-10-18 21:30:04,483 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 6.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 6.md
+2026-10-18 21:30:04,490 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:30:04,497 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app 3.json -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app 3.json
+2026-10-18 21:30:04,502 [INFO] Reconcile: Reconcile done: 1 -> iCloud, 3 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:30:20,009 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:30:31,802 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:30:31,810 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:31:43,990 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md
+2026-10-18 21:31:50,132 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Religonists.md
+2026-10-18 21:32:37,747 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Religonists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Pietyists.md
+2026-10-18 21:32:47,944 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Pietyists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:33:03,309 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:33:26,364 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:33:26,373 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:34:14,052 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:34:35,617 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:34:35,624 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Theologists.md
+2026-10-18 21:34:47,359 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md
+2026-10-18 21:34:59,576 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Untitled.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Antitheologists.md
+2026-10-18 21:35:04,792 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents 2.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents 2.md
+2026-10-18 21:35:04,807 [INFO] Reconcile: Archived (deleted) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:35:04,821 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents(1).md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents(1).md
+2026-10-18 21:35:04,828 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 2 -> local, 1 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:36:24,280 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Antitheologists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md
+2026-10-18 21:36:31,898 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents(1).md
+2026-10-18 21:36:36,535 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents 2.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Independents.md
+2026-10-18 21:37:24,252 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md
+2026-10-18 21:37:37,132 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md
+2026-10-18 21:37:37,140 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md
+2026-10-18 21:37:41,745 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md
+2026-10-18 21:38:35,035 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Mavists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagits.md
+2026-10-18 21:38:49,849 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagits.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagits.md
+2026-10-18 21:38:52,941 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagits.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md
+2026-10-18 21:38:59,124 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md
+2026-10-18 21:39:04,753 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md
+2026-10-18 21:39:21,363 [INFO] DebounceWorker: Moved    C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:39:24,959 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:39:46,927 [INFO] DebounceWorker: Archived (conflict) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:39:46,935 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:39:55,166 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:40:05,341 [INFO] Reconcile: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:40:05,352 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md
+2026-10-18 21:40:05,365 [INFO] Reconcile: Copied   C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists 2.md -> C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists 2.md
+2026-10-18 21:40:05,371 [INFO] Reconcile: Reconcile done: 1 -> iCloud, 2 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:40:09,004 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:40:15,144 [INFO] DebounceWorker: Copied   C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md -> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Savats.md
+2026-10-18 21:40:22,333 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists 2.md
+2026-10-18 21:40:22,350 [INFO] DebounceWorker: Archived (deleted) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\The Void\Expanses\The Luminary Expanse\Worlds\Talora\Political Groups\Sagists.md
+2026-10-18 21:45:05,935 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:50:06,348 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 21:55:06,914 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 22:00:07,232 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 22:05:07,526 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 22:15:02,263 [INFO] MainThread: Starting: C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss <-> C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss
+2026-10-18 22:16:02,593 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\World Building\Job Classes\Misc 7.md
+2026-10-18 22:16:02,616 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\World Building\Job Classes\Misc 7.md
+2026-10-18 22:16:02,621 [WARNING] Reconcile: Conflict copy with different content: .obsidian\app 2.json (compare with .obsidian\app.json, keep one, delete the other)
+2026-10-18 22:16:02,625 [WARNING] Reconcile: Conflict copy with different content: World Building\Job Classes\Misc 6.md (compare with World Building\Job Classes\Misc.md, keep one, delete the other)
+2026-10-18 22:16:02,662 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\core-plugins 2.json
+2026-10-18 22:16:02,686 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\core-plugins 2.json
+2026-10-18 22:16:02,714 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\appearance 2.json
+2026-10-18 22:16:02,726 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\appearance 2.json
+2026-10-18 22:16:02,749 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\OneDrive\Documents\Writing\Against The Abyss\.obsidian\app 3.json
+2026-10-18 22:16:02,762 [INFO] Reconcile: Archived (duplicate) C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app 3.json
+2026-10-18 22:16:02,767 [INFO] Reconcile: Reconcile done: 0 -> iCloud, 0 -> local, 0 archived locally, 0 archived in iCloud, 0 failed
+2026-10-18 22:16:32,684 [WARNING] DebounceWorker: Kept C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\core-plugins 2.json: deleted locally but never synced, so it will be restored
+2026-10-18 22:16:33,202 [WARNING] DebounceWorker: Kept C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\appearance 2.json: deleted locally but never synced, so it will be restored
+2026-10-18 22:16:33,204 [WARNING] DebounceWorker: Kept C:\Users\jtper\iCloudDrive\iCloud~md~obsidian\Against the Abyss\.obsidian\app 3.json: deleted locally but never synced, so it will be restored

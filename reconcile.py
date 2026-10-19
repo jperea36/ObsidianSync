@@ -1,10 +1,12 @@
 """Two-way comparison: the side that changed wins; if both changed, newest wins."""
 import logging
+import re
 from pathlib import Path
 
 from config import SyncConfig
 from state import Snapshot, SyncState
-from sync_actions import archive, copy_over, in_sync, io_lock, iter_files, rel_key, same, snapshot
+from sync_actions import (archive, copy_over, files_equal, in_sync, io_lock, iter_files,
+                          rel_key, same, snapshot)
 
 log = logging.getLogger(__name__)
 
@@ -24,6 +26,49 @@ def scan(root: Path, cfg: SyncConfig) -> dict[str, tuple[Path, Snapshot]]:
     return found
 
 
+# iCloud names conflict copies "Note 2.md", "Note 3.md", ...
+CONFLICT_COPY = re.compile(r"^(?P<base>.+) (?P<n>[2-9]|\d{2,})(?P<ext>\.[^.]+)?$")
+_warned: set[str] = set()
+
+
+def _conflict_base(rel: Path) -> Path | None:
+    m = CONFLICT_COPY.match(rel.name)
+    return rel.with_name(m["base"] + (m["ext"] or "")) if m else None
+
+
+def clean_conflict_copies(cfg: SyncConfig, state: SyncState, local: dict, remote: dict) -> None:
+    """Archive iCloud conflict copies that are identical to the original; warn about the rest.
+
+    Removes archived entries from the scan dicts so they aren't synced afterwards.
+    """
+    for key in list(local.keys() | remote.keys()):
+        entry = local.get(key) or remote.get(key)
+        rel, snap = entry
+        base = _conflict_base(rel)
+        if base is None or snap[0] == 0:  # skip non-matches and empty files (e.g. "Untitled 2.md")
+            continue
+        base_key = rel_key(base)
+        if base_key not in local and base_key not in remote:
+            continue  # nothing to be a copy of; treat as a normal file
+
+        candidates = [cfg.local / base, cfg.remote / base]
+        copies = [root / rel for root in (cfg.local, cfg.remote) if (root / rel).exists()]
+        identical = all(any(files_equal(c, b) for b in candidates if b.exists()) for c in copies)
+
+        if identical:
+            for root in (cfg.local, cfg.remote):
+                if (root / rel).exists():
+                    archive(root / rel, root, cfg, "duplicate")
+            local.pop(key, None)
+            remote.pop(key, None)
+            state.remove_tree(key)
+            _warned.discard(key)
+        elif key not in _warned:
+            _warned.add(key)
+            log.warning("Conflict copy with different content: %s (compare with %s, keep one, delete the other)",
+                        rel, base)
+
+
 def reconcile(cfg: SyncConfig, state: SyncState) -> None:
     with io_lock:
         if not cfg.remote.is_dir():
@@ -31,6 +76,7 @@ def reconcile(cfg: SyncConfig, state: SyncState) -> None:
             return
 
         local, remote = scan(cfg.local, cfg), scan(cfg.remote, cfg)
+        clean_conflict_copies(cfg, state, local, remote)
         plan: list[tuple[str, Path, str]] = []
 
         for key in local.keys() | remote.keys():
